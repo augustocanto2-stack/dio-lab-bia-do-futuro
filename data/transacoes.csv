@@ -1,5 +1,5 @@
 data,descricao,categoria,valor,tipo
-2026-03-01,Salário,receita,5000.00,entrada
+2026-03-01,Salário,receita,15000.00,entrada
 2026-03-02,Aluguel,moradia,1200.00,saida
 2026-03-03,Supermercado,alimentacao,450.00,saida
 2026-03-05,Netflix,lazer,55.90,saida
