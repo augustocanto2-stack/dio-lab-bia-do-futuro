@@ -8,5 +8,5 @@ data,descricao,categoria,valor,tipo
 2026-03-12,Uber,transporte,45.00,saida
 2026-03-15,Conta de Luz,moradia,180.00,saida
 2026-03-20,Academia,saude,99.00,saida
-2026-03-22,Financiamento do carro,Transporte,3500,saida
+2026-03-22,Financiamento do carro,Transporte,3500.00,saida
 2026-03-25,Combustível,transporte,250.00,saida
